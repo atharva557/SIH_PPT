@@ -10,7 +10,7 @@ Core message on every slide: **Discover → Verify → Trust**
 - Title: Semantic Retrieval and Multi-Temporal Change Analysis of Satellite Imagery
 - Theme: (copy from portal)
 - PS Category: Software
-- Team ID / Team Name: (fill in)
+- Team ID / Team Name: Deadbeat Lions
 
 ---
 
