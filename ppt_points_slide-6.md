@@ -17,3 +17,24 @@
 ### Research Direction
 
 **Our approach combines established research components — semantic vision-language retrieval, multi-temporal change detection, image registration, quality masking and evidence fusion — into a unified offline analyst workflow.**
+
+### RESEARCH POSITIONING
+
+**Established Research → Our Integration → Practical Deployment**
+
+**RemoteCLIP**
+Semantic Image–Text Retrieval
+↓
+**ChangeFormer / OSCD**
+Multi-Temporal Change Detection
+↓
+**Prithvi / Geospatial Foundation Models**
+Modern Earth-Observation Representation Learning
+↓
+**Quality & Registration Research**
+False-Alarm Reduction
+↓
+**Our System**
+**Offline • Evidence-Driven • Analyst-Verifiable • Multi-Temporal**
+
+**Key Research Gap:** Existing research largely focuses on individual capabilities; our proposed system integrates **semantic discovery + temporal change analysis + false-alarm control + evidence/provenance** into a single operational workflow.
